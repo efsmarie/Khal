@@ -1,0 +1,2 @@
+# Khal
+test compilation
